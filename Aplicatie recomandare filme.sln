@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicatie recomandare filme", "Aplicatie recomandare filme\Aplicatie recomandare filme.csproj", "{322C0D44-36FD-45AC-AA83-B8538A20953F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322C0D44-36FD-45AC-AA83-B8538A20953F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322C0D44-36FD-45AC-AA83-B8538A20953F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322C0D44-36FD-45AC-AA83-B8538A20953F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322C0D44-36FD-45AC-AA83-B8538A20953F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F19DAB35-F13E-4389-9CE5-C1BBB2F525EB}
+	EndGlobalSection
+EndGlobal
