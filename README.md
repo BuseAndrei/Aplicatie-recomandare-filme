@@ -1,2 +1,3 @@
 # Aplicatie-recomandare-filme
-buse.andrey@gmail.com
+Recommend a random movie and some information about it, use an API from TMDB
+
